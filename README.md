@@ -8,4 +8,5 @@ Bajke Jacoba i Wilhelma Grimma
 # Bajke:
 ## Ukleti Kraljević i Čelik-Henrik
 [Ukleti Kraljević i Čelik-Henrik](1UkletiKraljević.md)
-
+## Priča o čovjeku koji je htio da nauči strahovati
+[Priča o čovjeku koji je htio da nauči strahovati](3Pričaočovjeku.md)
