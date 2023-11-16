@@ -14,7 +14,7 @@ Bajke Jacoba i Wilhelma Grimma
 [Priča o čovjeku koji je htio da nauči strahovati](3Pričaočovjeku.md)
 ## Palčić
 [Palčić](4palcic.md)
-
-
+## Vuk i sedmoro jaradi
+[vuk-i-sedmoro-jaradi](5vuk-i-sedmoro-jaradi.md)
 ## Tri čovječuljka u šumi
 [Tri čovječuljka u šumi](6tri.md)
