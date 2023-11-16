@@ -18,3 +18,5 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 [Vuk i sedmoro jaradi](5vuk-i-sedmoro-jaradi.md)
 ## Tri čovječuljka u šumi
 [Tri čovječuljka u šumi](6tri.md)
+## Vjerni Ivan
+[Vjerni Ivan](7vjern-ivan.md)
