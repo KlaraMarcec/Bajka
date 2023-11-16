@@ -1,6 +1,6 @@
 # Bajka
 Bajke Jacoba i Wilhelma Grimma
-
+https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 # O autorima:
 ## Jacob i Wilhelm Grimm
 [Braća Grimm](braca-grimm.md)
