@@ -12,3 +12,5 @@ Bajke Jacoba i Wilhelma Grimma
 [Klatež](2Klatez.md)
 ## Priča o čovjeku koji je htio da nauči strahovati
 [Priča o čovjeku koji je htio da nauči strahovati](3Pričaočovjeku.md)
+## Palčić
+[Palčić](4palcic.md)
