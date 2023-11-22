@@ -48,3 +48,5 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 [Siromah i bogataš](20siromah-i-bogatas.md)
 ## Kralj Bradonja
 [Kralj Bradonja](21kralj-bradonja.md)
+## Doktor Sveznalica
+[Doktor Sveznalica](22doktor-sveznalica.md)
