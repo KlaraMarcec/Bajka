@@ -40,3 +40,5 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 [Sedam gavrana](16sedam-gavrana.md)
 ## Bremenski gradski svirači
 [Bremenski gradski svirači](17bremenski-gradski-sviraci.md)
+## Mudra seljanka
+[Mudra seljanka](18mudra-seljanka.md)
