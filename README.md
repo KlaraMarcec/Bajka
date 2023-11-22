@@ -36,3 +36,5 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 [Mirko i Milka](14mirko-i-milka.md)
 ## Crvenkapica
 [Crvenkapica](15crvenkapica.md)
+## Sedam gavrana
+[Sedam gavrana](16sedam-gavrana.md)
