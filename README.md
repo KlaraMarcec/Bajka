@@ -44,3 +44,5 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 [Mudra seljanka](18mudra-seljanka.md)
 ## Trnoružica
 [Trnoružica](19trnoruzica.md)
+## Siromah i bogataš
+[Siromah i bogataš](20siromah-i-bogatas.md)
