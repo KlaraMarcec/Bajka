@@ -52,3 +52,5 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 [Doktor Sveznalica](22doktor-sveznalica.md)
 ## Snjeguljica
 [Snjeguljica](23snjeguljica.md)
+## Mudri ljudi
+[Mudri ljudi](24mudri-ljudi.md)
