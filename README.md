@@ -46,3 +46,5 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 [Trnoružica](19trnoruzica.md)
 ## Siromah i bogataš
 [Siromah i bogataš](20siromah-i-bogatas.md)
+## Kralj Bradonja
+[Kralj Bradonja](21kralj-bradonja.md)
