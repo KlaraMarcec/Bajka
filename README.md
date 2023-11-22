@@ -54,3 +54,5 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 [Snjeguljica](23snjeguljica.md)
 ## Mudri ljudi
 [Mudri ljudi](24mudri-ljudi.md)
+## Braco i seka
+[Braco i seka](25braco-i-seka.md)
