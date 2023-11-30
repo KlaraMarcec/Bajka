@@ -7,11 +7,11 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 
 # Bajke:
 ## Ukleti Kraljević i Čelik-Henrik
-[Ukleti Kraljević i Čelik-Henrik](1UkletiKraljevic.md)
+[Ukleti Kraljević i Čelik-Henrik](1ukleti-kraljevic.md)
 ## Klatež
-[Klatež](2Klatez.md)
+[Klatež](2klatez.md)
 ## Priča o čovjeku koji je htio da nauči strahovati
-[Priča o čovjeku koji je htio da nauči strahovati](3Pricaocovjeku.md)
+[Priča o čovjeku koji je htio da nauči strahovati](3prica-o-covjeku.md)
 ## Palčić
 [Palčić](4palcic.md)
 ## Vuk i sedmoro jaradi
@@ -19,7 +19,7 @@ https://sjedi5.com/wp-content/uploads/2016/01/Jacob-i-Wilhelm-Grimm.jpg
 ## Tri čovječuljka u šumi
 [Tri čovječuljka u šumi](6tri.md)
 ## Vjerni Ivan
-[Vjerni Ivan](7vjern-ivan.md)
+[Vjerni Ivan](7vjerni-ivan.md)
 ## Nahod-prica
 [Nahod-ptica](8Nahod-ptica.md)
 ## Dvanaestorica braće
